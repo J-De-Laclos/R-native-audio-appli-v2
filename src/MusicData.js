@@ -15,7 +15,7 @@ export const songs = [
     title: "song 3",
     singer: "Mulan",
     image: require("./images/yoga.jpg"),
-    url: require("./music/wave.wav"),
+    url: require("./music/wave-2.wav"),
   },
   {
     title: "song 4",
@@ -33,7 +33,7 @@ export const songs = [
     title: "song 6",
     singer: "Blanche",
     image: require("./images/nature.jpg"),
-    url: require("./music/wave.wav"),
+    url: require("./music/wave-2.wav"),
   },
   {
     title: "song 7",
@@ -45,7 +45,7 @@ export const songs = [
     title: "song 8",
     singer: "Ariel",
     image: require("./images/contemplative.jpg"),
-    url: require("./music/wave.wav"),
+    url: require("./music/wave-2.wav"),
   },
   {
     title: "song 9",
