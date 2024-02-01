@@ -23,14 +23,12 @@ Une application React Native pour écouter de la musique, utilisant Expo et reac
 ## Captures d'écran
 
 ![Capture d'écran 1](./src/images/Screen-01.png)
-_Description de la capture d'écran 1_
 
 ![Capture d'écran 2](./src/images/Screen-02.png)
-_Description de la capture d'écran 2_
 
 ### Enregistrement d'écran 1
 
-[![Vidéo d'écran 1](./src/video/Enregistrement-ecran.mov)]
+[![Vidéo d'écran 1](./src/video/Enregistrement-ecran-2.mp4)]
 
 ## Dépendances Principales
 
