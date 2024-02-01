@@ -88,38 +88,6 @@ export default function Music() {
     }
   };
 
-  ///////////
-  //   const togglePlayback = async () => {
-  //     const newPlaybackState = await TrackPlayer.getState();
-  //     console.log(newPlaybackState);
-
-  //     if (newPlaybackState === State.Paused || newPlaybackState === State.Ready) {
-  //       await TrackPlayer.play();
-  //     } else {
-  //       await TrackPlayer.pause();
-  //     }
-  //   };
-  ///////////////////
-  //   const togglePlayback = async () => {
-  //     try {
-  //       const newPlaybackState = await TrackPlayer.getState();
-  //       console.log("New Playback State:", newPlaybackState);
-
-  //       if (
-  //         newPlaybackState === State.Paused ||
-  //         newPlaybackState === State.Ready
-  //       ) {
-  //         console.log("Attempting to play");
-  //         await TrackPlayer.play();
-  //       } else {
-  //         console.log("Attempting to pause");
-  //         await TrackPlayer.pause();
-  //       }
-  //     } catch (error) {
-  //       console.error("Error in togglePlayback:", error);
-  //     }
-  //   };
-
   return (
     <View style={styles.container}>
       {/* <Image source={route.params.data.image} style={styles.banner} /> */}

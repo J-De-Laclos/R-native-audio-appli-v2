@@ -9,13 +9,13 @@ export const songs = [
     title: "song 2",
     singer: "Aurore",
     image: require("./images/nuit.jpg"),
-    url: require("./music/testsound.wav"),
+    url: require("./music/outlaw.mp3"),
   },
   {
     title: "song 3",
     singer: "Mulan",
     image: require("./images/yoga.jpg"),
-    url: require("./music/wave-2.wav"),
+    url: require("./music/violin-loop.mp3"),
   },
   {
     title: "song 4",
@@ -33,7 +33,7 @@ export const songs = [
     title: "song 6",
     singer: "Blanche",
     image: require("./images/nature.jpg"),
-    url: require("./music/wave-2.wav"),
+    url: require("./music/violin-loop.mp3"),
   },
   {
     title: "song 7",
@@ -57,6 +57,6 @@ export const songs = [
     title: "song 10",
     singer: "Elsa",
     image: require("./images/aspirateur.jpg"),
-    url: require("./music/piano.mp3"),
+    url: require("./music/outlaw.mp3"),
   },
 ];
