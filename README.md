@@ -28,7 +28,7 @@ Une application React Native pour écouter de la musique, utilisant Expo et reac
 
 ### Enregistrement d'écran 1
 
-[![Vidéo d'écran 1](./src/video/Enregistrement-ecran-2.mp4)]
+[![Vidéo d'écran 1](./src/video/Enregistrement-ecran.gif)]
 
 ## Dépendances Principales
 
